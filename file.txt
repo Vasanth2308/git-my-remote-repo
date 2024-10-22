@@ -1,2 +1,3 @@
 This is the first file created using local repo
 This is the edit we are making for the git pull command 
+This is the edit we are making for the git fetch command
